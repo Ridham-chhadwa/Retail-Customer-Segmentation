@@ -1,13 +1,13 @@
 
-# 🛍️ Retail Customer Segmentation using RFM and K-Means
+# Retail Customer Segmentation using RFM and K-Means
 
-## 🧠 Overview
+## Overview
 This project segments retail customers based on purchasing behaviour using the **RFM (Recency, Frequency, Monetary)** model and **K-Means clustering**.  
 It helps businesses identify VIP customers, churn risks, and potential growth segments for targeted marketing strategies.
 
 ---
 
-## 💾 Dataset
+## Dataset
 **Dataset:** Online Retail II (UCI Repository)
 
 | Variable | Description |
@@ -23,7 +23,7 @@ It helps businesses identify VIP customers, churn risks, and potential growth se
 
 ---
 
-## ⚙️ Steps and Methodology
+## Steps and Methodology
 
 1. **Data Cleaning:**  
    - Removed missing CustomerIDs and cancelled transactions.  
@@ -47,7 +47,7 @@ It helps businesses identify VIP customers, churn risks, and potential growth se
 
 ---
 
-## 📊 Results
+## Results
 
 | Cluster | Profile | Key Traits |
 |----------|----------|------------|
@@ -56,20 +56,11 @@ It helps businesses identify VIP customers, churn risks, and potential growth se
 | 2 | **Loyal Regulars** | Moderate spenders with consistent engagement |
 | 3 | **New Customers** | Recently joined, potential to grow |
 
-🏆 Top 20% of customers drive nearly **65% of total revenue**.
+Top 20% of customers drive nearly **65% of total revenue**.
 
 ---
 
-## 📈 Visuals
-
-- ![RFM Distribution](images/rfm_distribution.png)
-- ![Cluster Heatmap](images/cluster_heatmap.png)
-- ![3D Scatter Plot](images/cluster_3d.png)
-- ![Revenue Pie](images/revenue_pie.png)
-
----
-
-## 💡 Business Impact
+## Business Impact
 
 This segmentation enables marketing teams to:
 - Prioritize high-value customers (loyalty programs).
@@ -78,7 +69,7 @@ This segmentation enables marketing teams to:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python
 - pandas, numpy, scikit-learn
 - matplotlib, seaborn
@@ -86,8 +77,8 @@ This segmentation enables marketing teams to:
 
 ---
 
-## 👤 Author
+## Author
 **Ridham Chhadawa**  
 Data & AI Engineer | Sydney, Australia  
-[LinkedIn](https://linkedin.com/in/ridhamchhadawa) | [GitHub](https://github.com/ridhamchhadawa)
+[LinkedIn](https://www.linkedin.com/in/ridham-chhadwa-9667a216b/) | [GitHub](https://github.com/ridhamchhadawa)
 
