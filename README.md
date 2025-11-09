@@ -98,5 +98,5 @@ This segmentation enables marketing teams to:
 ## Author
 **Ridham Chhadawa**  
 Data & AI Engineer | Sydney, Australia  
-[LinkedIn](https://www.linkedin.com/in/ridham-chhadwa-9667a216b/) | [GitHub](https://github.com/ridhamchhadawa)
+[LinkedIn](https://www.linkedin.com/in/ridham-chhadwa-9667a216b/) | [GitHub](https://github.com/Ridham-chhadwa))
 
