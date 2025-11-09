@@ -46,6 +46,24 @@ It helps businesses identify VIP customers, churn risks, and potential growth se
    - Explained behaviour of each cluster in business terms.
 
 ---
+## 📊 Visualizations
+
+### 1. Distribution of RFM Features
+![Distribution of RFM Features](https://github.com/Ridham-chhadwa/Retail-Customer-Segmentation/blob/main/Distribution%20of%20RFM%20Features.png)
+
+### 2. Customer Segments based on RFM
+![Customer Segments based on RFM](https://github.com/Ridham-chhadwa/Retail-Customer-Segmentation/blob/main/Customer%20Segments%20based%20on%20RFM.png)
+
+### 3. Average RFM Scores per Cluster
+![Average RFM Scores per Cluster](https://github.com/Ridham-chhadwa/Retail-Customer-Segmentation/blob/main/Average%20RFM%20Scores%20per%20Cluster.png)
+
+### 4. 3D View of Customer Clusters
+![3D View of Customer Clusters](https://github.com/Ridham-chhadwa/Retail-Customer-Segmentation/blob/main/3D%20View%20of%20Customer%20Clusters.png)
+
+### 5. Revenue Contribution by Cluster
+![Revenue Contribution by Cluster](https://github.com/Ridham-chhadwa/Retail-Customer-Segmentation/blob/main/Revenue%20Contribution%20by%20cluster.png)
+
+---
 
 ## Results
 
